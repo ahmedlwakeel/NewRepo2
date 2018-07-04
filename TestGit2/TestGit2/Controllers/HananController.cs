@@ -6,10 +6,10 @@ using System.Web.Mvc;
 
 namespace TestGit2.Controllers
 {
-    public class WakeelController : Controller
+    public class HananController : Controller
     {
         //
-        // GET: /Wakeel/
+        // GET: /Hanan/
 
         public ActionResult Index()
         {
