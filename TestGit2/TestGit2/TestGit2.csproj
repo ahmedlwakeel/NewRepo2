@@ -162,7 +162,12 @@
     <Compile Include="App_Start\RouteConfig.cs" />
     <Compile Include="App_Start\WebApiConfig.cs" />
     <Compile Include="Controllers\AccountController.cs" />
+    <Compile Include="Controllers\Branch1ToMasterController.cs" />
+    <Compile Include="Controllers\Branch2ToMasterController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
+    <Compile Include="Controllers\HananController.cs" />
+    <Compile Include="Controllers\MergeToMasterController.cs" />
+    <Compile Include="Controllers\Wakeel2Controller.cs" />
     <Compile Include="Filters\InitializeSimpleMembershipAttribute.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
